@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gUA9yHxBdOEK7Q5v0KtmBL6c8Uc7aH3q48m6iMw5aQs8XIux0hGXeNb6EAQF4WRcyV/JgpIXvl+TKTT7H5hJIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WINDOWS\\source\\repos\\VapeShop\\VapeShop\\VapeShop.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.5\\guna.ui2.winforms.2.0.4.5.nupkg.sha512",
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

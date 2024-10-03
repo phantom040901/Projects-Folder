@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Z9rJJ/HDlxPk9TrTOBp1lQrX1IHylgC8XZQ0GYSv4ChWfMGF0TJ7h9fASIa/NF5C+BjkzGvUp3mGe3zBHRB8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WINDOWS\\source\\repos\\IT16Project\\IT16Project\\IT16Project.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512",
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
